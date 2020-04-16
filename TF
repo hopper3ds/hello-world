@@ -1,7 +1,7 @@
 {
 	"allCardsUrl": "https://www.cardgamesimulator.com/games/Standard/AllCards.json",
 	"allSetsUrl": "https://www.cardgamesimulator.com/games/Standard/AllSets.json",
-	"autoUpdateUrl": "http://www.daphnesanjose.com/temp2/TF.json",
+	"autoUpdateUrl": "https://github.com/hopper3ds/hello-world/blob/master/TF",
 	"bannerImageUrl": "https://www.cardgamesimulator.com/games/Standard/Banner.png",
 	"cardBackImageUrl": "https://www.cardgamesimulator.com/games/Standard/CardBack.png",
 	"cardImageUrl": "https://www.cardgamesimulator.com/games/Standard/sets/{cardSet}/{cardId}.{cardImageFileType}",
